@@ -1,0 +1,2 @@
+# Student.c
+Mini project 
